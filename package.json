@@ -1,6 +1,6 @@
 {
   "name": "doxdox-plugin-handlebars",
-  "description": "Custom handlebars template plugin for doxdox.",
+  "description": "Custom Handlebars template plugin for doxdox.",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
