@@ -14,5 +14,5 @@ $ npm install doxdox doxdox-plugin-handlebars --save-dev
 ## Usage
 
 ```bash
-$ doxdox lib/ --layout templates/custom.hbs --output DOCUMENTATION.html
+$ doxdox 'src/**/*.js' --layout templates/README.hbs --output README.md
 ```
