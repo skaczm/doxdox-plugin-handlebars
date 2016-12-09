@@ -1,4 +1,4 @@
-# [doxdox-plugin-handlebars](https://github.com/neogeek/doxdox-plugin-handlebars) *1.0.3*
+# [doxdox-plugin-handlebars](https://github.com/neogeek/doxdox-plugin-handlebars) *1.0.4*
 
 > Custom Handlebars template plugin for doxdox.
 
@@ -15,7 +15,9 @@ Custom Handlebars template plugin for doxdox.
 
 ##### Parameters
 
-- **data** `Array`   Methods parsed using a doxdox parser.
+| Name | Type | Description |  |
+| ---- | ---- | ----------- | -------- |
+| data | `Array`  | Methods parsed using a doxdox parser. | &nbsp; |
 
 
 
@@ -30,7 +32,7 @@ parseInputs(inputs, {'parser': 'dox', 'layout': 'template.hbs'}).then(content =>
 ##### Returns
 
 
-- `Promise`   Promise with generated content.
+- `Promise`  Promise with generated content.
 
 
 
