@@ -1,5 +1,7 @@
 # doxdox-plugin-handlebars
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/neogeek/doxdox-plugin-handlebars.svg)](https://greenkeeper.io/)
+
 > Custom Handlebars template plugin for doxdox.
 
 [![Build Status](https://travis-ci.org/neogeek/doxdox-plugin-handlebars.svg?branch=master)](https://travis-ci.org/neogeek/doxdox-plugin-handlebars)
