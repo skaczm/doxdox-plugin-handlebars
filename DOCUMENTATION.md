@@ -1,4 +1,4 @@
-# [doxdox-plugin-handlebars](https://github.com/neogeek/doxdox-plugin-handlebars) *1.1.5*
+# [doxdox-plugin-handlebars](https://github.com/neogeek/doxdox-plugin-handlebars) *1.1.6*
 
 > Custom Handlebars template plugin for doxdox.
 
